@@ -1,4 +1,6 @@
 /*
+
+//It is similar problem to Koko eating bananas
 Problem Statement:
 
 John loves apples and wants to harvest them from his neighbor's garden. However, he must finish his mission before the neighbor returns, which will be in H hours.
